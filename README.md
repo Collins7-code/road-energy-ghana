@@ -1,6 +1,6 @@
 # ⚡ Road Energy Potential in Ghana
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-URL)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://road-energy-ghana-u2da6zh7v2lrgtdtzrwgle.streamlit.app/))
 
 > *What if the cars stuck in Accra traffic were quietly generating electricity?*
 
@@ -12,7 +12,7 @@ notebook and a **live interactive app**.
 🧑🏾‍💻 Built by **Collins**, 17 — a SHS sophomore in Ghana — on a phone.
 
 ## 🎮 Try the live app
-👉 **[Open the interactive dashboard](https://YOUR-APP-URL)** — drag the sliders
+👉 **[Open the interactive dashboard]([*](https://road-energy-ghana-u2da6zh7v2lrgtdtzrwgle.streamlit.app/)* — drag the sliders
 (efficiency, trips/day, km/trip) and watch the numbers change.
 
 ## ❓ The question
